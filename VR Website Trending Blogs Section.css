@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.blog-container-bg{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 500;
+}
+h1{
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding: 10px;
+}
+p{
+    color: #959ead;
+}
+.blog-description{
+    color: #323f4b;
+    font-size: 20px;
+}
+.blog-1{
+    border-style: none;
+    border-width: 1px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.button{
+    background-color: #1754a1;
+    color: white;
+    border-width: 0px;
+    width: 120px;
+    height: 40px;
+    margin-top: 15px;
+}
